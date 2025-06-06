@@ -1,0 +1,1 @@
+[.phrase | ascii_upcase | split(" "; null)[][0:1]] | add
