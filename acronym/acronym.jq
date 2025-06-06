@@ -1,1 +1,1 @@
-[.phrase | ascii_upcase | split(" "; null)[][0:1]] | add
+[.phrase | ascii_upcase | split("[ _-]+"; null)[][0:1]] | add
